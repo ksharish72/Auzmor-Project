@@ -60,10 +60,10 @@ class Content extends Component {
 									<script id="SCRIPT_117">if (typeof(Dribbble) != "undefined" && typeof(Dribbble.Shots) != "undefined") {
 
     }
-									</script> <a title="Like this shot" href="/signup/new" id="A_118"><img src="https://cdn.dribbble.com/assets/icon-shotstat-like-6a1e9e9db48b9b788639f05a658379b7bb027a75d256127f812bf9392664396f.png" alt="Icon shotstat like" id="IMG_119" /> <span id="SPAN_120">Like?</span></a> <a href="/shots/3978177-Animation-Cryptocurrency-Marketplace-Light/fans" id="A_121">250 <span id="SPAN_122">likes</span></a>
+									</script> <a title="Like this shot" href="/signup/new" id="A_118"><img src="https://cdn.dribbble.com/assets/icon-shotstat-like-6a1e9e9db48b9b788639f05a658379b7bb027a75d256127f812bf9392664396f.png" alt="Icon shotstat like" id="IMG_119" /> <span id="SPAN_120">Like?</span></a> <a href="/shots/3978177-Animation-Cryptocurrency-Marketplace-Light/fans" id="A_121">0 <span id="SPAN_122">likes</span></a>
 								</li>
 								<li id="LI_123">
-										 <a href="#" id="A_124"><img src="https://cdn.dribbble.com/assets/icon-shotstat-share-128ae71c26985fc7325ac5362aba434686f12fdfffa45ed874262a19f923b071.png" alt="Icon shotstat share" id="IMG_125" /> <span id="SPAN_126">Share</span></a> <span id="SPAN_127">5,523 views</span>
+										 <a href="#" id="A_124"><img src="https://cdn.dribbble.com/assets/icon-shotstat-share-128ae71c26985fc7325ac5362aba434686f12fdfffa45ed874262a19f923b071.png" alt="Icon shotstat share" id="IMG_125" /> <span id="SPAN_126">Share</span></a> <span id="SPAN_127">0 views</span>
 										<div id="DIV_128">
 											<div id="DIV_129">
 												<a href="#" title="Share on Twitter" id="A_130">Share on Twitter</a><a href="#" title="Share on Facebook" id="A_131">Share on Facebook</a><a href="#" title="Share on Pinterest" id="A_132">Share on Pinterest</a><a href="#" title="Share on Tumblr" id="A_133">Share on Tumblr</a><a href="#" title="Share via Email" id="A_134">Share via Email</a>
