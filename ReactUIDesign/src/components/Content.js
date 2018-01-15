@@ -284,7 +284,7 @@ class Content extends Component {
 						<div id="DIV_156">
 							<span id="SPAN_157">bitcoin</span><span id="SPAN_158"><span id="SPAN_159">MF1v</span><span id="SPAN_160"></span></span>
 							<div id="DIV_161">
-								<span id="SPAN_162">BTC/USD</span><span id="SPAN_163">Brandon Lucas</span>
+								<span id="SPAN_162">BTC/USD</span><span id="SPAN_163">Brandon</span>
 							</div>
 						</div>
 					</div>
