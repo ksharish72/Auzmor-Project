@@ -1,1050 +1,293 @@
 #FDIV_1 {
-    bottom: 0px;
-    color: rgb(68, 68, 68);
-    margin-top: -100px;
-    font-kerning: normal;
-    height: 285px;
-    left: 0px;
-    position: relative;
-    right: 0px;
-    text-decoration: none solid rgb(68, 68, 68);
-    top: 0px;
     width: 1349px;
-    z-index: 2;
-    column-rule-color: rgb(68, 68, 68);
-    perspective-origin: 674.5px 143px;
-    transform-origin: 674.5px 143px;
-    caret-color: rgb(68, 68, 68);
-    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
-    border-top: 1px solid rgb(229, 229, 229);
-    border-right: 0px none rgb(68, 68, 68);
-    border-bottom: 0px none rgb(68, 68, 68);
-    border-left: 0px none rgb(68, 68, 68);
-    font: normal normal 400 normal 10px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(68, 68, 68) none 0px;
+    perspective-origin: 674.5px 0px;
+    transform-origin: 674.5px 0px;
+    font: normal normal 400 normal 16px / normal Roboto, sans-serif;
 }/*#DIV_1*/
 
 #FDIV_2 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 235px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 1289px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 674.5px 142.5px;
-    transform-origin: 674.5px 142.5px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(153, 153, 153) none 0px;
-    padding: 30px 30px 20px;
+    bottom: 0px;
+    box-shadow: rgb(238, 238, 238) -9px -8px 35px 9px;
+    color: rgb(73, 98, 243);
+    height: 80px;
+    left: 1286px;
+    position: fixed;
+    right: 0px;
+    text-align: center;
+    text-decoration: none solid rgb(73, 98, 243);
+    top: 320px;
+    width: 80px;
+    column-rule-color: rgb(73, 98, 243);
+    perspective-origin: 40px 40px;
+    transform-origin: 40px 40px;
+    caret-color: rgb(73, 98, 243);
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(73, 98, 243);
+    border-radius: 5px 0 0 0;
+    font: normal normal 400 normal 27px / 80px Roboto, sans-serif;
+    outline: rgb(73, 98, 243) none 0px;
 }/*#DIV_2*/
 
-#FDIV_3 {
-    bottom: 0px;
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 205px;
-    left: 0px;
-    position: relative;
-    right: 0px;
-    text-decoration: none solid rgb(153, 153, 153);
-    top: 0px;
-    width: 1289px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 644.5px 102.5px;
-    transform-origin: 644.5px 102.5px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#DIV_3*/
+#FI_3 {
+    color: rgb(73, 98, 243);
+    display: inline-block;
+    height: 27px;
+    text-align: center;
+    text-decoration: none solid rgb(73, 98, 243);
+    width: 20.25px;
+    column-rule-color: rgb(73, 98, 243);
+    perspective-origin: 10.125px 13.5px;
+    transform-origin: 10.125px 13.5px;
+    caret-color: rgb(73, 98, 243);
+    border: 0px none rgb(73, 98, 243);
+    font: normal normal 400 normal 27px / 27px FontAwesome;
+    outline: rgb(73, 98, 243) none 0px;
+}/*#I_3*/
 
-#FDIV_3:after {
-    clear: both;
-    color: rgb(153, 153, 153);
-    content: '"."';
-    display: block;
-    font-kerning: normal;
-    height: 0px;
-    text-decoration: none solid rgb(153, 153, 153);
-    visibility: hidden;
-    width: 1289px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 644.5px 0px;
-    transform-origin: 644.5px 0px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#DIV_3:after*/
+#FI_3:before {
+    color: rgb(73, 98, 243);
+    content: '""';
+    text-align: center;
+    text-decoration: none solid rgb(73, 98, 243);
+    column-rule-color: rgb(73, 98, 243);
+    perspective-origin: 0px 0px;
+    transform-origin: 0px 0px;
+    caret-color: rgb(73, 98, 243);
+    border: 0px none rgb(73, 98, 243);
+    font: normal normal 400 normal 27px / 27px FontAwesome;
+    outline: rgb(73, 98, 243) none 0px;
+}/*#I_3:before*/
 
 #FDIV_4 {
-    box-sizing: border-box;
-    color: rgb(153, 153, 153);
-    float: left;
-    font-kerning: normal;
-    height: 177px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 322.25px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 161.125px 88.5px;
-    transform-origin: 161.125px 88.5px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 0px 0px 20px;
-    outline: rgb(153, 153, 153) none 0px;
+    bottom: 0px;
+    box-shadow: rgb(238, 238, 238) -9px -8px 35px 9px;
+    color: rgb(73, 98, 243);
+    display: none;
+    height: 80px;
+    position: fixed;
+    right: 0px;
+    text-decoration: none solid rgb(73, 98, 243);
+    width: 75%;
+    column-rule-color: rgb(73, 98, 243);
+    align-items: center;
+    justify-content: space-evenly;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    caret-color: rgb(73, 98, 243);
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(73, 98, 243);
+    border-radius: 5px 0 0 0;
+    font: normal normal 400 normal 16px / normal Roboto, sans-serif;
+    outline: rgb(73, 98, 243) none 0px;
 }/*#DIV_4*/
 
-#FP_5 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 48px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 272.25px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 136.125px 24px;
-    transform-origin: 136.125px 24px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 500 normal 15px / 24px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 0px 50px 10px 0px;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#P_5*/
-
-#FA_6 {
-    color: rgb(58, 139, 187);
-    font-kerning: normal;
-    text-decoration: none solid rgb(58, 139, 187);
-    column-rule-color: rgb(58, 139, 187);
-    caret-color: rgb(58, 139, 187);
-    border: 0px none rgb(58, 139, 187);
-    font: normal normal 500 normal 15px / 24px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(58, 139, 187) none 0px;
-}/*#A_6*/
-
-#FIMG_7 {
-    color: rgb(58, 139, 187);
-    cursor: pointer;
-    display: block;
-    float: left;
-    font-kerning: normal;
-    height: 20px;
-    text-decoration: none solid rgb(58, 139, 187);
-    width: 80px;
-    column-rule-color: rgb(58, 139, 187);
-    perspective-origin: 40px 10px;
-    transform-origin: 40px 10px;
-    caret-color: rgb(58, 139, 187);
-    border: 0px none rgb(58, 139, 187);
-    font: normal normal 500 normal 15px / 24px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 0px 15px 0px 0px;
-    outline: rgb(58, 139, 187) none 0px;
-}/*#IMG_7*/
-
-#FBR_8 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    text-decoration: none solid rgb(153, 153, 153);
-    column-rule-color: rgb(153, 153, 153);
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 500 normal 15px / 24px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#BR_8*/
-
-#FP_9 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 60px;
-    max-width: 300px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 272.25px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 136.125px 30px;
-    transform-origin: 136.125px 30px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / 20.8px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 0px 50px 10px 0px;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#P_9*/
-
-#FP_10 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 29px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 272.25px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 136.125px 14.5px;
-    transform-origin: 136.125px 14.5px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / 20.8px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 20px 50px 10px 0px;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#P_10*/
-
-#FA_11, #FA_13, #FA_15, #FA_17, #FA_19 {
-    color: rgb(58, 139, 187);
-    font-kerning: normal;
-    text-decoration: none solid rgb(58, 139, 187);
-    column-rule-color: rgb(58, 139, 187);
-    caret-color: rgb(58, 139, 187);
-    border: 0px none rgb(58, 139, 187);
-    font: normal normal 400 normal 13px / 20.8px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 0px 10px 0px 0px;
-    outline: rgb(58, 139, 187) none 0px;
-}/*#A_11, #A_13, #A_15, #A_17, #A_19*/
-
-#FIMG_12, #FIMG_14, #FIMG_18 {
-    color: rgb(58, 139, 187);
-    cursor: pointer;
-    font-kerning: normal;
-    height: 24px;
-    opacity: 0.37;
-    text-decoration: none solid rgb(58, 139, 187);
-    width: 24px;
-    column-rule-color: rgb(58, 139, 187);
-    perspective-origin: 12px 12px;
-    transform-origin: 12px 12px;
-    caret-color: rgb(58, 139, 187);
-    border: 0px none rgb(58, 139, 187);
-    font: normal normal 400 normal 13px / 20.8px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(58, 139, 187) none 0px;
-}/*#IMG_12, #IMG_14, #IMG_18*/
-
-#FIMG_16, #FIMG_20 {
-    color: rgb(58, 139, 187);
-    cursor: pointer;
-    font-kerning: normal;
-    height: 24px;
-    opacity: 0.37;
-    text-decoration: none solid rgb(58, 139, 187);
-    width: 24px;
-    column-rule-color: rgb(58, 139, 187);
-    perspective-origin: 12px 12px;
-    transform-origin: 12px 12px;
-    caret-color: rgb(58, 139, 187);
-    border: 0px none rgb(58, 139, 187);
-    font: normal normal 400 normal 13px / 20.8px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(58, 139, 187) none 0px;
-}/*#IMG_16, #IMG_20*/
-
-#FDIV_21 {
-    box-sizing: border-box;
-    color: rgb(153, 153, 153);
-    float: left;
-    font-kerning: normal;
-    height: 185px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 644.5px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 322.25px 92.5px;
-    transform-origin: 322.25px 92.5px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 0px 0px 20px;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#DIV_21*/
-
-#FDIV_22 {
-    color: rgb(153, 153, 153);
-    float: left;
-    font-kerning: normal;
-    height: 185px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 176.234px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 88.1094px 92.5px;
-    transform-origin: 88.1094px 92.5px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 0px 30px 0px 0px;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#DIV_22*/
-
-#FH3_23 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 17px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 176.234px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 88.1094px 8.5px;
-    transform-origin: 88.1094px 8.5px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 500 normal 14px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 2px 0px 5px;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#H3_23*/
-
-#FA_24, #FA_56, #FA_68 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    text-decoration: none solid rgb(153, 153, 153);
-    column-rule-color: rgb(153, 153, 153);
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 500 normal 14px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#A_24, #A_56, #A_68*/
-
-#FUL_25 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 161px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 176.234px;
-    column-count: 2;
-    column-gap: 20px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 88.1094px 80.5px;
-    transform-origin: 88.1094px 80.5px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    margin: 0px;
-    outline: rgb(153, 153, 153) none 0px;
-    padding: 0px;
-}/*#UL_25*/
-
-#FLI_26, #FLI_28, #FLI_30, #FLI_32, #FLI_34, #FLI_36, #FLI_38, #FLI_40, #FLI_42, #FLI_44, #FLI_46, #FLI_48, #FLI_50, #FLI_52 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 23px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 78.1094px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 39.0469px 11.5px;
-    transform-origin: 39.0469px 11.5px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#LI_26, #LI_28, #LI_30, #LI_32, #LI_34, #LI_36, #LI_38, #LI_40, #LI_42, #LI_44, #LI_46, #LI_48, #LI_50, #LI_52*/
-
-#FA_27, #FA_29, #FA_33, #FA_37, #FA_41, #FA_45, #FA_49, #FA_53, #FA_59, #FA_61, #FA_63 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    text-align: left;
-    text-decoration: none solid rgb(153, 153, 153);
-    column-rule-color: rgb(153, 153, 153);
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / 23.4px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#A_27, #A_29, #A_33, #A_37, #A_41, #A_45, #A_49, #A_53, #A_59, #A_61, #A_63*/
-
-#FA_31, #FA_35, #FA_43, #FA_51 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    text-align: left;
-    text-decoration: none solid rgb(153, 153, 153);
-    column-rule-color: rgb(153, 153, 153);
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / 23.4px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#A_31, #A_35, #A_43, #A_51*/
-
-#FA_39, #FA_47 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    text-align: left;
-    text-decoration: none solid rgb(153, 153, 153);
-    column-rule-color: rgb(153, 153, 153);
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / 23.4px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#A_39, #A_47*/
-
-#FDIV_54 {
-    color: rgb(153, 153, 153);
-    float: left;
-    font-kerning: normal;
-    height: 116px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 156.891px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 78.4375px 58px;
-    transform-origin: 78.4375px 58px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 0px 30px 0px 0px;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#DIV_54*/
-
-#FH3_55 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 17px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 156.891px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 78.4375px 8.5px;
-    transform-origin: 78.4375px 8.5px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 500 normal 14px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 2px 0px 5px;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#H3_55*/
-
-#FUL_57 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 92px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 156.891px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 78.4375px 46px;
-    transform-origin: 78.4375px 46px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    margin: 0px;
-    outline: rgb(153, 153, 153) none 0px;
-    padding: 0px;
-}/*#UL_57*/
-
-#FLI_58, #FLI_60, #FLI_64 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 23px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 156.891px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 78.4375px 11.5px;
-    transform-origin: 78.4375px 11.5px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#LI_58, #LI_60, #LI_64*/
-
-#FLI_62 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 23px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 156.891px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 78.4375px 11.5px;
-    transform-origin: 78.4375px 11.5px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#LI_62*/
-
-#FA_65 {
-    background-position: 0px 50%;
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    text-align: left;
-    text-decoration: none solid rgb(153, 153, 153);
-    column-rule-color: rgb(153, 153, 153);
-    caret-color: rgb(153, 153, 153);
-    background: rgba(0, 0, 0, 0) url("https://cdn.dribbble.com/assets/icon-external-link-2c8c30f381c99fd3dcc5a86cf37f045a146218a58e379c0d3c1cde9562ae322d.png") no-repeat scroll 0px 50% / auto padding-box border-box;
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / 23.4px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(153, 153, 153) none 0px;
-    padding: 0px 0px 0px 20px;
-}/*#A_65*/
-
-#FDIV_66 {
-    color: rgb(153, 153, 153);
-    float: left;
-    font-kerning: normal;
-    height: 152px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 221.344px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 110.672px 76px;
-    transform-origin: 110.672px 76px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 0px 30px 0px 0px;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#DIV_66*/
-
-#FH3_67 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 17px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 221.344px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 110.672px 8.5px;
-    transform-origin: 110.672px 8.5px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 500 normal 14px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 2px 0px 5px;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#H3_67*/
-
-#FOL_69 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 123px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 221.344px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 110.672px 61.5px;
-    transform-origin: 110.672px 61.5px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    margin: 10px 0px 0px;
-    outline: rgb(153, 153, 153) none 0px;
-    padding: 0px;
-}/*#OL_69*/
-
-#FLI_70, #FLI_80 {
-    bottom: 0px;
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 31px;
-    left: 0px;
+#FUL_5 {
+    color: rgb(73, 98, 243);
+    display: flex;
+    height: auto;
     position: relative;
-    right: 0px;
-    text-decoration: none solid rgb(153, 153, 153);
-    top: 0px;
-    width: 221.344px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 110.672px 15.5px;
-    transform-origin: 110.672px 15.5px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    margin: 0px 0px 15px;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#LI_70, #LI_80*/
-
-#FLI_70:after, #FLI_80:after {
-    clear: both;
-    color: rgb(153, 153, 153);
-    content: '"."';
-    display: block;
-    font-kerning: normal;
-    height: 0px;
-    text-decoration: none solid rgb(153, 153, 153);
-    visibility: hidden;
-    width: 221.344px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 110.672px 0px;
-    transform-origin: 110.672px 0px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#LI_70:after, #LI_80:after*/
-
-#FA_71, #FA_81, #FA_91 {
-    bottom: -3px;
-    color: rgb(58, 139, 187);
-    display: block;
-    font-kerning: normal;
-    height: 32px;
-    left: 0px;
-    position: absolute;
-    right: 191.344px;
-    text-align: left;
-    text-decoration: none solid rgb(58, 139, 187);
-    top: 2px;
-    width: 30px;
-    column-rule-color: rgb(58, 139, 187);
-    perspective-origin: 15px 16px;
-    transform-origin: 15px 16px;
-    caret-color: rgb(58, 139, 187);
-    border: 0px none rgb(58, 139, 187);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(58, 139, 187) none 0px;
-}/*#A_71, #A_81, #A_91*/
-
-#FIMG_72, #FIMG_82, #FIMG_92 {
-    color: rgb(58, 139, 187);
-    cursor: pointer;
-    font-kerning: normal;
-    height: 30px;
-    text-align: left;
-    text-decoration: none solid rgb(58, 139, 187);
-    width: 30px;
-    column-rule-color: rgb(58, 139, 187);
-    perspective-origin: 15px 15px;
-    transform-origin: 15px 15px;
-    caret-color: rgb(58, 139, 187);
-    border: 0px none rgb(58, 139, 187);
-    border-radius: 50% 50% 50% 50%;
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(58, 139, 187) none 0px;
-}/*#IMG_72, #IMG_82, #IMG_92*/
-
-#FA_73, #FA_83, #FA_93 {
-    color: rgb(58, 139, 187);
-    display: none;
-    font-kerning: normal;
-    position: absolute;
-    right: -36px;
-    text-align: left;
-    text-decoration: none solid rgb(58, 139, 187);
-    top: 20px;
-    z-index: 2;
-    column-rule-color: rgb(58, 139, 187);
+    text-decoration: none solid rgb(73, 98, 243);
+    width: auto;
+    column-rule-color: rgb(73, 98, 243);
+    align-items: center;
+    justify-content: space-around;
     perspective-origin: 50% 50%;
     transform-origin: 50% 50%;
-    caret-color: rgb(58, 139, 187);
-    border: 0px none rgb(58, 139, 187);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    caret-color: rgb(73, 98, 243);
+    border: 0px none rgb(73, 98, 243);
+    flex: 0 1 90%;
+    font: normal normal 400 normal 16px / normal Roboto, sans-serif;
     list-style: none outside none;
-    outline: rgb(58, 139, 187) none 0px;
-}/*#A_73, #A_83, #A_93*/
+    margin: 0px;
+    outline: rgb(73, 98, 243) none 0px;
+    padding: 0px;
+}/*#UL_5*/
 
-#FIMG_74, #FIMG_84, #FIMG_94 {
-    color: rgb(58, 139, 187);
-    cursor: pointer;
-    font-kerning: normal;
+#FUL_5:after {
+    color: rgb(73, 98, 243);
+    content: '""';
+    display: block;
+    height: 80px;
+    position: absolute;
+    right: -5px;
+    text-decoration: none solid rgb(73, 98, 243);
+    column-rule-color: rgb(73, 98, 243);
+    caret-color: rgb(73, 98, 243);
+    border-top: 0px none rgb(73, 98, 243);
+    border-right: 3px solid rgb(237, 237, 242);
+    border-bottom: 0px none rgb(73, 98, 243);
+    border-left: 0px none rgb(73, 98, 243);
+    font: normal normal 400 normal 16px / normal Roboto, sans-serif;
+    list-style: none outside none;
+    outline: rgb(73, 98, 243) none 0px;
+}/*#UL_5:after*/
+
+#FLI_6, #FLI_11, #FLI_16, #FLI_21, #FLI_26 {
+    color: rgb(73, 98, 243);
+    display: block;
+    height: auto;
+    min-height: auto;
+    min-width: auto;
+    text-decoration: none solid rgb(73, 98, 243);
+    width: auto;
+    column-rule-color: rgb(73, 98, 243);
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    caret-color: rgb(73, 98, 243);
+    border: 0px none rgb(73, 98, 243);
+    flex: 0 1 10%;
+    font: normal normal 400 normal 16px / normal Roboto, sans-serif;
+    list-style: none outside none;
+    outline: rgb(73, 98, 243) none 0px;
+}/*#LI_6, #LI_11, #LI_16, #LI_21, #LI_26*/
+
+#FDIV_7, #FDIV_12, #FDIV_17, #FDIV_22, #FDIV_27 {
+    color: rgb(149, 149, 149);
     height: auto;
     text-align: left;
-    text-decoration: none solid rgb(58, 139, 187);
-    width: 32px;
-    column-rule-color: rgb(58, 139, 187);
+    text-decoration: none solid rgb(149, 149, 149);
+    text-transform: uppercase;
+    width: auto;
+    column-rule-color: rgb(149, 149, 149);
     perspective-origin: 50% 50%;
     transform-origin: 50% 50%;
-    caret-color: rgb(58, 139, 187);
-    border: 0px none rgb(58, 139, 187);
-    border-radius: 4px 4px 4px 4px;
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    caret-color: rgb(149, 149, 149);
+    border: 0px none rgb(149, 149, 149);
+    font: normal normal 700 normal 12px / normal Roboto, sans-serif;
     list-style: none outside none;
-    outline: rgb(58, 139, 187) none 0px;
-}/*#IMG_74, #IMG_84, #IMG_94*/
+    outline: rgb(149, 149, 149) none 0px;
+}/*#DIV_7, #DIV_12, #DIV_17, #DIV_22, #DIV_27*/
 
-#FA_75, #FA_85, #FA_95 {
-    bottom: 0px;
-    color: rgb(68, 68, 68);
-    display: block;
-    font-kerning: normal;
-    height: 31px;
-    left: 0px;
-    position: relative;
-    right: 0px;
+#FDIV_8, #FDIV_13, #FDIV_18, #FDIV_23, #FDIV_28 {
+    color: rgb(73, 98, 243);
+    display: flex;
+    height: auto;
     text-align: left;
-    text-decoration: none solid rgb(68, 68, 68);
-    top: 0px;
-    width: 180.344px;
-    column-rule-color: rgb(68, 68, 68);
-    perspective-origin: 108.172px 15.5px;
-    transform-origin: 108.172px 15.5px;
-    caret-color: rgb(68, 68, 68);
-    border: 0px none rgb(68, 68, 68);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none solid rgb(73, 98, 243);
+    width: auto;
+    column-rule-color: rgb(73, 98, 243);
+    align-items: center;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    caret-color: rgb(73, 98, 243);
+    border: 0px none rgb(73, 98, 243);
+    font: normal normal 400 normal 16px / normal Roboto, sans-serif;
+    list-style: none outside none;
+    outline: rgb(73, 98, 243) none 0px;
+}/*#DIV_8, #DIV_13, #DIV_18, #DIV_23, #DIV_28*/
+
+#FSPAN_9, #FSPAN_14, #FSPAN_19, #FSPAN_24, #FSPAN_29 {
+    color: rgb(85, 85, 86);
+    display: block;
+    min-height: auto;
+    min-width: auto;
+    text-align: left;
+    text-decoration: none solid rgb(85, 85, 86);
+    text-transform: uppercase;
+    column-rule-color: rgb(85, 85, 86);
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    caret-color: rgb(85, 85, 86);
+    border: 0px none rgb(85, 85, 86);
+    font: normal normal 700 normal 22px / normal Roboto, sans-serif;
+    list-style: none outside none;
+    outline: rgb(85, 85, 86) none 0px;
+}/*#SPAN_9, #SPAN_14, #SPAN_19, #SPAN_24, #SPAN_29*/
+
+#FSPAN_10, #FSPAN_20 {
+    color: rgb(0, 128, 0);
+    display: block;
+    min-height: auto;
+    min-width: auto;
+    text-align: left;
+    text-decoration: none solid rgb(0, 128, 0);
+    column-rule-color: rgb(0, 128, 0);
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    caret-color: rgb(0, 128, 0);
+    border: 0px none rgb(0, 128, 0);
+    font: normal normal 700 normal 13px / normal Roboto, sans-serif;
     list-style: none outside none;
     margin: 0px 0px 0px 5px;
-    outline: rgb(68, 68, 68) none 0px;
-    padding: 0px 0px 0px 36px;
-}/*#A_75, #A_85, #A_95*/
+    outline: rgb(0, 128, 0) none 0px;
+}/*#SPAN_10, #SPAN_20*/
 
-#FA_75:after, #FA_85:after, #FA_95:after {
-    clear: both;
-    color: rgb(68, 68, 68);
-    content: '"."';
+#FSPAN_15, #FSPAN_25 {
+    color: rgb(255, 0, 0);
     display: block;
-    font-kerning: normal;
-    height: 0px;
+    min-height: auto;
+    min-width: auto;
     text-align: left;
-    text-decoration: none solid rgb(68, 68, 68);
-    visibility: hidden;
-    width: 180.344px;
-    column-rule-color: rgb(68, 68, 68);
-    perspective-origin: 90.1719px 0px;
-    transform-origin: 90.1719px 0px;
-    caret-color: rgb(68, 68, 68);
-    border: 0px none rgb(68, 68, 68);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(68, 68, 68) none 0px;
-}/*#A_75:after, #A_85:after, #A_95:after*/
-
-#FSPAN_76, #FSPAN_86, #FSPAN_96 {
-    color: rgb(68, 68, 68);
-    cursor: pointer;
-    font-kerning: normal;
-    text-align: left;
-    text-decoration: none solid rgb(68, 68, 68);
-    column-rule-color: rgb(68, 68, 68);
-    caret-color: rgb(68, 68, 68);
-    border: 0px none rgb(68, 68, 68);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(68, 68, 68) none 0px;
-}/*#SPAN_76, #SPAN_86, #SPAN_96*/
-
-#FSPAN_77, #FSPAN_87, #FSPAN_97 {
-    color: rgb(58, 139, 187);
-    cursor: pointer;
-    display: block;
-    font-kerning: normal;
-    height: 17px;
-    text-align: left;
-    text-decoration: none solid rgb(58, 139, 187);
-    width: 180.344px;
-    column-rule-color: rgb(58, 139, 187);
-    perspective-origin: 90.1719px 8.5px;
-    transform-origin: 90.1719px 8.5px;
-    caret-color: rgb(58, 139, 187);
-    border: 0px none rgb(58, 139, 187);
-    font: normal normal 500 normal 14px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(58, 139, 187) none 0px;
-}/*#SPAN_77, #SPAN_87, #SPAN_97*/
-
-#FSPAN_78, #FSPAN_88, #FSPAN_98 {
-    color: rgb(153, 153, 153);
-    cursor: pointer;
-    display: block;
-    font-kerning: normal;
-    height: 14px;
-    text-align: left;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 180.344px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 90.1719px 7px;
-    transform-origin: 90.1719px 7px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 12px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#SPAN_78, #SPAN_88, #SPAN_98*/
-
-#FSPAN_79, #FSPAN_89, #FSPAN_99 {
-    color: rgb(153, 153, 153);
-    cursor: pointer;
-    display: none;
-    float: right;
-    font-kerning: normal;
-    text-align: left;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 30%;
-    column-rule-color: rgb(153, 153, 153);
+    text-decoration: none solid rgb(255, 0, 0);
+    column-rule-color: rgb(255, 0, 0);
     perspective-origin: 50% 50%;
     transform-origin: 50% 50%;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 14px / 18.2px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    caret-color: rgb(255, 0, 0);
+    border: 0px none rgb(255, 0, 0);
+    font: normal normal 700 normal 13px / normal Roboto, sans-serif;
     list-style: none outside none;
-    margin: 14px 0px 6px;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#SPAN_79, #SPAN_89, #SPAN_99*/
+    margin: 0px 0px 0px 5px;
+    outline: rgb(255, 0, 0) none 0px;
+}/*#SPAN_15, #SPAN_25*/
 
-#FLI_90 {
-    bottom: 0px;
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 31px;
-    left: 0px;
-    position: relative;
-    right: 0px;
-    text-decoration: none solid rgb(153, 153, 153);
-    top: 0px;
-    width: 221.344px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 110.672px 15.5px;
-    transform-origin: 110.672px 15.5px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+#FSPAN_30 {
+    color: rgb(255, 0, 0);
+    display: block;
+    min-height: auto;
+    min-width: auto;
+    text-align: left;
+    text-decoration: none solid rgb(255, 0, 0);
+    column-rule-color: rgb(255, 0, 0);
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    caret-color: rgb(255, 0, 0);
+    border: 0px none rgb(255, 0, 0);
+    font: normal normal 700 normal 13px / normal Roboto, sans-serif;
     list-style: none outside none;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#LI_90*/
+    margin: 0px 0px 0px 5px;
+    outline: rgb(255, 0, 0) none 0px;
+}/*#SPAN_30*/
 
-#FLI_90:after {
-    clear: both;
-    color: rgb(153, 153, 153);
-    content: '"."';
-    display: block;
-    font-kerning: normal;
-    height: 0px;
-    text-decoration: none solid rgb(153, 153, 153);
-    visibility: hidden;
-    width: 221.344px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 110.672px 0px;
-    transform-origin: 110.672px 0px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#LI_90:after*/
+#FDIV_31 {
+    color: rgb(73, 98, 243);
+    height: auto;
+    text-align: center;
+    text-decoration: none solid rgb(73, 98, 243);
+    width: 80px;
+    column-rule-color: rgb(73, 98, 243);
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    caret-color: rgb(73, 98, 243);
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(73, 98, 243);
+    font: normal normal 400 normal 27px / 80px Roboto, sans-serif;
+    margin: 0px 0px 0px 10px;
+    outline: rgb(73, 98, 243) none 0px;
+}/*#DIV_31*/
 
-#FDIV_100 {
-    box-sizing: border-box;
-    color: rgb(153, 153, 153);
-    float: left;
-    font-kerning: normal;
-    height: 176px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 322.25px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 161.125px 88px;
-    transform-origin: 161.125px 88px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / normal "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 0px 0px 20px;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#DIV_100*/
+#FI_32 {
+    color: rgb(73, 98, 243);
+    display: inline-block;
+    text-align: center;
+    text-decoration: none solid rgb(73, 98, 243);
+    column-rule-color: rgb(73, 98, 243);
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    caret-color: rgb(73, 98, 243);
+    border: 0px none rgb(73, 98, 243);
+    font: normal normal 400 normal 27px / 27px FontAwesome;
+    outline: rgb(73, 98, 243) none 0px;
+}/*#I_32*/
 
-#FDIV_101 {
-    bottom: 0px;
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 100px;
-    left: 0px;
-    min-height: 100px;
-    position: relative;
-    right: 0px;
-    text-decoration: none solid rgb(153, 153, 153);
-    top: 0px;
-    width: 177.25px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 161.125px 50px;
-    transform-origin: 161.125px 50px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / 19.5px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(153, 153, 153) none 0px;
-    padding: 0px 0px 0px 145px;
-}/*#DIV_101*/
-
-#FDIV_102 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 79px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 177.25px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 88.625px 39.5px;
-    transform-origin: 88.625px 39.5px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / 19.5px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#DIV_102*/
-
-#FSPAN_103, #FSPAN_104 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    text-decoration: none solid rgb(153, 153, 153);
-    column-rule-color: rgb(153, 153, 153);
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / 19.5px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#SPAN_103, #SPAN_104*/
-
-#FA_105 {
-    bottom: -4px;
-    color: rgb(119, 119, 119);
-    display: block;
-    font-kerning: normal;
-    height: 104px;
-    left: 0px;
-    position: absolute;
-    right: 192.25px;
-    text-decoration: none solid rgb(119, 119, 119);
-    top: 0px;
-    width: 130px;
-    column-rule-color: rgb(119, 119, 119);
-    perspective-origin: 65px 52px;
-    transform-origin: 65px 52px;
-    caret-color: rgb(119, 119, 119);
-    border: 0px none rgb(119, 119, 119);
-    font: normal normal 400 normal 13px / 19.5px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(119, 119, 119) none 0px;
-}/*#A_105*/
-
-#FIMG_106 {
-    box-shadow: rgb(204, 204, 204) 0px 0px 1px 0px;
-    color: rgb(119, 119, 119);
-    cursor: pointer;
-    font-kerning: normal;
-    height: 100px;
-    max-width: 130px;
-    text-decoration: none solid rgb(119, 119, 119);
-    width: 130px;
-    column-rule-color: rgb(119, 119, 119);
-    perspective-origin: 65px 50px;
-    transform-origin: 65px 50px;
-    caret-color: rgb(119, 119, 119);
-    border: 0px none rgb(119, 119, 119);
-    border-radius: 2px 2px 2px 2px;
-    font: normal normal 400 normal 13px / 19.5px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(119, 119, 119) none 0px;
-}/*#IMG_106*/
-
-#FA_107 {
-    color: rgb(119, 119, 119);
-    font-kerning: normal;
-    text-decoration: none solid rgb(119, 119, 119);
-    column-rule-color: rgb(119, 119, 119);
-    caret-color: rgb(119, 119, 119);
-    border: 0px none rgb(119, 119, 119);
-    font: normal normal 400 normal 13px / 19.5px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(119, 119, 119) none 0px;
-}/*#A_107*/
-
-#FA_108 {
-    color: rgb(187, 187, 187);
-    display: block;
-    font-kerning: normal;
-    height: 18px;
-    letter-spacing: 0.36px;
-    text-decoration: none solid rgb(187, 187, 187);
-    text-transform: uppercase;
-    width: 177.25px;
-    column-rule-color: rgb(187, 187, 187);
-    perspective-origin: 88.625px 9px;
-    transform-origin: 88.625px 9px;
-    caret-color: rgb(187, 187, 187);
-    border: 0px none rgb(187, 187, 187);
-    font: normal normal 500 normal 12px / 18px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 4px 0px 0px;
-    outline: rgb(187, 187, 187) none 0px;
-}/*#A_108*/
-
-#FH4_109 {
-    background-position: 0px 50%;
-    bottom: 0px;
-    color: rgb(119, 119, 119);
-    font-kerning: normal;
-    height: 56px;
-    left: 0px;
-    min-height: 56px;
-    position: relative;
-    right: 0px;
-    text-decoration: none solid rgb(119, 119, 119);
-    top: 0px;
-    width: 268.25px;
-    column-rule-color: rgb(119, 119, 119);
-    perspective-origin: 161.125px 28px;
-    transform-origin: 161.125px 28px;
-    caret-color: rgb(119, 119, 119);
-    background: rgba(0, 0, 0, 0) url("https://cdn.dribbble.com/assets/ball-2acfbb9fdf187a34b07a7cc209d07025b39697eba6302c54942a556c10b3fa94.png") no-repeat scroll 0px 50% / auto padding-box border-box;
-    border: 0px none rgb(119, 119, 119);
-    font: normal normal 400 normal 14.3px / 20.02px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 20px 0px 0px;
-    outline: rgb(119, 119, 119) none 0px;
-    padding: 0px 0px 0px 54px;
-}/*#H4_109*/
-
-#FH4_109:after {
-    clear: both;
-    color: rgb(119, 119, 119);
-    content: '"."';
-    display: block;
-    font-kerning: normal;
-    height: 0px;
-    text-decoration: none solid rgb(119, 119, 119);
-    visibility: hidden;
-    width: 268.25px;
-    column-rule-color: rgb(119, 119, 119);
-    perspective-origin: 134.125px 0px;
-    transform-origin: 134.125px 0px;
-    caret-color: rgb(119, 119, 119);
-    border: 0px none rgb(119, 119, 119);
-    font: normal normal 400 normal 14.3px / 20.02px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(119, 119, 119) none 0px;
-}/*#H4_109:after*/
-
-#FSTRONG_110 {
-    color: rgb(51, 51, 51);
-    display: block;
-    font-kerning: normal;
-    height: 25px;
-    text-decoration: none solid rgb(51, 51, 51);
-    width: 268.25px;
-    column-rule-color: rgb(51, 51, 51);
-    perspective-origin: 134.125px 14.5px;
-    transform-origin: 134.125px 14.5px;
-    caret-color: rgb(51, 51, 51);
-    border: 0px none rgb(51, 51, 51);
-    font: normal normal 700 normal 21.45px / 25.74px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(51, 51, 51) none 0px;
-    padding: 4px 0px 0px;
-}/*#STRONG_110*/
-
-#FP_111 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    height: 20px;
-    text-decoration: none solid rgb(153, 153, 153);
-    width: 1239px;
-    column-rule-color: rgb(153, 153, 153);
-    perspective-origin: 619.5px 10px;
-    transform-origin: 619.5px 10px;
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 400 normal 13px / 20.8px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 0px 50px 10px 0px;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#P_111*/
-
-#FA_112, #FA_113, #FA_115, #FA_117 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    text-decoration: none solid rgb(153, 153, 153);
-    column-rule-color: rgb(153, 153, 153);
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 500 normal 13px / 20.8px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#A_112, #A_113, #A_115, #A_117*/
-
-#FA_114, #FA_116 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    text-decoration: none solid rgb(153, 153, 153);
-    column-rule-color: rgb(153, 153, 153);
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 500 normal 13px / 20.8px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#A_114, #A_116*/
-
-#FA_118 {
-    color: rgb(153, 153, 153);
-    font-kerning: normal;
-    text-decoration: none solid rgb(153, 153, 153);
-    column-rule-color: rgb(153, 153, 153);
-    caret-color: rgb(153, 153, 153);
-    border: 0px none rgb(153, 153, 153);
-    font: normal normal 500 normal 13px / 20.8px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    outline: rgb(153, 153, 153) none 0px;
-}/*#A_118*/
+#FI_32:before {
+    color: rgb(73, 98, 243);
+    content: '""';
+    text-align: center;
+    text-decoration: none solid rgb(73, 98, 243);
+    column-rule-color: rgb(73, 98, 243);
+    caret-color: rgb(73, 98, 243);
+    border: 0px none rgb(73, 98, 243);
+    font: normal normal 400 normal 27px / 27px FontAwesome;
+    outline: rgb(73, 98, 243) none 0px;
+}/*#I_32:before*/
 

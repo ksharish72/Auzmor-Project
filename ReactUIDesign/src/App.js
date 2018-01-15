@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Header from "./components/Header";
+import SideNavBar from "./components/SideNavBar";
 import Content from "./components/Content";
 import Footer from "./components/Footer";
 
@@ -19,6 +20,7 @@ class App extends Component {
         </p>*/}
         <Header/>
         <Content/>
+        <SideNavBar/>
         <Footer/>
       </div>
     );
